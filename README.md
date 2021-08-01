@@ -11,13 +11,22 @@
  <br />
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohamed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br />
-  
+ 
+<details> 
+  <summary>📋 View Streak</summary>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="streak" alt="Mohammed's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohamed&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </a>
+</p>
+</details>
+
 <details>
   <summary>❤️ About Me</summary>
   <p align="left">
        <h2>About Me</h2>
     <p><em>Learn more about me.</em></p>
-    <p> My name is Mohammed. I love Programming and Creating Hames.</p>   
+    <p> My name is Mohammed. I love Programming and Creating Games.</p>   
   <ul>
   <li>I am a 16 years old Muslim who like coding</li>
   <li>Fav Languages - Html, js and aoi.js</li>
@@ -45,8 +54,9 @@
        <h2>Contact</h2>
    <p>If you would like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
    <ul>
-     <li>Tag: <code>Spen#0999</code></li>
-     <li>ID: <code>696368083517964288</code></li>
+     <li>Tag: <code>вs🔹Mohammed#8130 </code></li>
+     <li>ID: <code>513707147213799436</code></li>
+     <li>Email: Soon™</li>
    </ul>
    </p>
 </details>
