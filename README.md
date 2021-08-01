@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Just-Mohamed">
-  <!--img here-->
+  <a href="https://github.com/Just-Mohamed"><!--img here--></a>
 </p>
-  <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohamed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Just-Mohamed&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+
+ <br />
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohamed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <br />
   
 <details>
   <summary>❤️ About Me</summary>
