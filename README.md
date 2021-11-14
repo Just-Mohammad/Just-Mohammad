@@ -54,7 +54,7 @@
        <h2>Contact</h2>
    <p>If you would like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
    <ul>
-     <li>Tag: <code>вs🔹Mohammed#8130 </code></li>
+     <li>Tag: <code>Just Mohammed#8130 </code></li>
      <li>ID: <code>513707147213799436</code></li>
      <li>Email: Soon™</li>
    </ul>
