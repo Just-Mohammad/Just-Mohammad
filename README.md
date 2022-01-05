@@ -9,14 +9,14 @@
 </p>
 
  <br />
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=272727" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=121212" /></a>
  <br />
  
 <details> 
   <summary>📋 View Streak</summary>
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="streak" alt="Mohammad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohammad&theme=black-ice&hide_border=true&stroke=000&background=272727&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="streak" alt="Mohammad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohammad&theme=black-ice&hide_border=true&stroke=000&background=121212&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
 </p>
 </details>
