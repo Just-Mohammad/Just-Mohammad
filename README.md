@@ -1,36 +1,36 @@
 <!--Credits to lrusso96 (https://github.com/lrusso96) for the profile scheme.-->
 <!--All 3rd party trademarks and copyrights are property of their respective owners/maintainers.-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Moh!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+i'm+Moh&center=true&width=380&height=45">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Just-Mohamed"><!--img here--></a>
+  <a href="https://github.com/Just-Mohammad"><!--img here--></a>
 </p>
 
  <br />
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohamed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=277ECD" /></a>
  <br />
  
 <details> 
   <summary>📋 View Streak</summary>
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="streak" alt="Mohammed's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohamed&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="streak" alt="Mohammad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohammad&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
 </p>
 </details>
 
 <details>
-  <summary>❤️ About Me</summary>
+  <summary>🐼 About Me</summary>
   <p align="left">
        <h2>About Me</h2>
     <p><em>Learn more about me.</em></p>
-    <p> My name is Mohammed. I love Programming and Creating Games.</p>   
+    <p> My name is Mohammad. I love Programming and Creating Games.</p>   
   <ul>
   <li>I am a 16 years old Muslim who like coding</li>
-  <li>Fav Languages - Html, js and aoi.js</li>
-  <li>I am new to github soooo *send help*</li>
+  <li>Fav Languages - Html, js and discord.js</li>
+  <li>I am new to github soooo <i>*send help*</i></li>
   </ul> 
   </p>
 </details>
@@ -54,7 +54,7 @@
        <h2>Contact</h2>
    <p>If you would like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
    <ul>
-     <li>Tag: <code>Just Mohammed#8130 </code></li>
+     <li>Tag: <code>Just Mohammad#8130 </code></li>
      <li>ID: <code>513707147213799436</code></li>
      <li>Email: Soon™</li>
    </ul>
