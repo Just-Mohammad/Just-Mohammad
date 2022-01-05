@@ -9,14 +9,14 @@
 </p>
 
  <br />
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=277ECD" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Just-Mohammad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=FFF" /></a>
  <br />
  
 <details> 
   <summary>📋 View Streak</summary>
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="streak" alt="Mohammad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohammad&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="streak" alt="Mohammad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Mohammad&theme=black-ice&hide_border=true&stroke=277ECD&background=FFF&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
 </p>
 </details>
@@ -36,7 +36,7 @@
 </details>
   
 <details>
-  <summary>🛠 Projects</summary>
+  <summary>📚 Projects</summary>
   <p align="left">
        <h2>Projects</h2>
     <p><em>My current projects. I also have some other ones not listed here.</em></p>   
