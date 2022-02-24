@@ -53,7 +53,7 @@
   <summary>📬 Contact</summary>
   <p align="left">
        <h2>Contact</h2>
-   <p>If you would like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
+   <p>If you would like to connect with me, you can DM on <a href='https://discord.com/channels/@me'>Discord</a>. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
    <ul>
      <li>Tag: <code>Just Mohammad#5708 </code></li>
      <li>ID: <code>513707147213799436</code></li>
